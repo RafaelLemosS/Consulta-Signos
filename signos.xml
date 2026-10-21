@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é conhecido pela energia, coragem e atitude. Gosta de desafios, fala o que pensa e não costuma esperar muito para agir. É intenso, espontâneo e cheio de iniciativa.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro valoriza a segurança, o conforto e as relações verdadeiras. É leal, paciente e determinado, mas pode ser bastante teimoso quando acredita estar certo. Gosta de aproveitar as coisas boas da vida.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é comunicativo, curioso e cheio de ideias. Gosta de conversar, conhecer coisas novas e estar sempre em movimento. Tem uma mente rápida e um jeito versátil de enxergar o mundo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é sensível, carinhoso e muito ligado às pessoas que ama. Valoriza a família, as lembranças e os vínculos verdadeiros. Pode demorar para confiar, mas quando se apega, cuida de coração.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão tem presença marcante, coração generoso e gosta de se sentir valorizado. É confiante, criativo e protetor com quem ama. Quando acredita em algo, faz questão de mostrar sua força e personalidade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é observador, organizado e atento aos detalhes. Gosta de fazer as coisas bem-feitas e demonstra carinho por meio de atitudes. Às vezes, cobra demais de si mesmo porque quer que tudo dê certo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra busca equilíbrio, harmonia e boas conexões. É sociável, diplomático e costuma considerar diferentes pontos de vista. Gosta de estar perto de pessoas queridas, embora possa ter dificuldade para tomar decisões.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é intenso, reservado e cheio de personalidade. Valoriza a confiança e não gosta de relações superficiais. Quando se entrega de verdade, demonstra lealdade, profundidade e sentimentos que nem sempre revela facilmente.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário ama a liberdade, as aventuras e as novas experiências. É espontâneo, otimista e costuma falar o que pensa sem rodeios. Gosta de rir, explorar o mundo e não se sentir preso à rotina.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é responsável, determinado e focado nos seus objetivos. Prefere construir as coisas com calma e segurança. Pode parecer sério à primeira vista, mas demonstra carinho por meio da presença, da lealdade e das atitudes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário tem um jeito independente, criativo e original de pensar. Gosta de liberdade, de boas conversas e de questionar o que todo mundo considera normal. Valoriza amizades verdadeiras e respeita a individualidade de cada um.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é sonhador, sensível e cheio de empatia. Costuma perceber o que os outros sentem e tem uma imaginação fértil. É romântico e acolhedor, mas precisa aprender a respeitar os próprios limites e sentimentos.</descricao>
+    </signo>
+</signos>

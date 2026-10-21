@@ -1,0 +1,122 @@
+body {
+    min-height: 100vh;
+    color: #29233a;
+}
+
+/* ---------- Página do formulário: céu claro com estrelas discretas ---------- */
+.pagina-formulario {
+    background-color: #f4f1fa;
+    background-image:
+        radial-gradient(circle, rgba(112, 82, 163, 0.30) 0 1.5px, transparent 2px),
+        radial-gradient(circle, rgba(112, 82, 163, 0.18) 0 1px, transparent 1.5px),
+        linear-gradient(180deg, #f8f6fd 0%, #e6dff4 100%);
+    background-size: 130px 130px, 80px 80px, auto;
+    background-position: 0 0, 40px 55px, 0 0;
+    background-attachment: fixed;
+}
+
+.cartao-signos {
+    max-width: 520px;
+    padding: 2.5rem 2rem;
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 0 8px 24px rgba(42, 30, 71, 0.08);
+    text-align: center;
+}
+
+.texto-pequeno {
+    color: #7052a3;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.titulo-signos {
+    font-family: "Cinzel", Georgia, serif;
+    font-size: 1.9rem;
+    font-weight: 500;
+}
+
+.divisor {
+    width: 70%;
+    margin: 0 auto 1.25rem;
+    border-top: 2px solid #7052a3;
+    opacity: 0.35;
+}
+
+.btn-primary {
+    background-color: #7052a3;
+    border-color: #7052a3;
+}
+
+.btn-primary:hover {
+    background-color: #5c4188;
+    border-color: #5c4188;
+}
+
+.btn-outline-primary {
+    color: #7052a3;
+    border-color: #7052a3;
+}
+
+.btn-outline-primary:hover {
+    background-color: #7052a3;
+    border-color: #7052a3;
+}
+
+.form-control:focus {
+    border-color: #7052a3;
+    box-shadow: 0 0 0 0.25rem rgba(112, 82, 163, 0.25);
+}
+
+/* ---------- Página de resultado: degradê lilás para azul-noite ---------- */
+.pagina-resultado {
+    color: #ffffff;
+    background: linear-gradient(180deg, #9a8bb5 0%, #6a5a9e 45%, #2a2270 100%);
+    background-attachment: fixed;
+}
+
+.cartao-resultado {
+    max-width: 560px;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.cartao-resultado .texto-pequeno {
+    color: #e3d9f5;
+}
+
+.simbolo-signo {
+    font-size: 3.5rem;
+    line-height: 1;
+    opacity: 0.9;
+}
+
+.nome-signo {
+    font-family: "Cinzel", Georgia, serif;
+    font-size: clamp(2.2rem, 9vw, 3.4rem);
+    font-weight: 400;
+    letter-spacing: 0.3em;
+    padding-left: 0.3em; /* compensa o espaço que o letter-spacing deixa no fim */
+}
+
+.descricao-signo {
+    max-width: 440px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(255, 255, 255, 0.88);
+    line-height: 1.9;
+    letter-spacing: 0.02em;
+}
+
+@media (max-width: 576px) {
+    .cartao-signos {
+        padding: 2rem 1.25rem;
+    }
+
+    .nome-signo {
+        letter-spacing: 0.2em;
+        padding-left: 0.2em;
+    }
+}
